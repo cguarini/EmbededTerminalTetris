@@ -1,11 +1,8 @@
-            TTL Program Title for Listing Header Goes Here
+            TTL Tetris Assembly Subroutines
 ;****************************************************************
-;Descriptive comment header goes here.
-;(What does the program do?)
-;Name:  <Your name here>
-;Date:  <Date completed here>
-;Class:  CMPE-250
-;Section:  <Your lab section, day, and time here>
+;Assembly subroutines for use with Tetris.c for the TerminalTetris program
+;Name:  Chris Guarini
+;Date:  1/10/2017
 ;---------------------------------------------------------------
 ;Keil Template for KL46 Assembly with Keil C startup
 ;R. W. Melton

@@ -1,16 +1,4 @@
-/*********************************************************************/
-/* Lab Exercise Twelve                                               */
-/* Adjusts a servo to one of five positions [1, 5] using  mixed C    */
-/* and assembly language.  Prompts user to enter a number from 1 to  */
-/* 5, generates a voltage in the range (0, 3.3] V proportional to    */
-/* the user's number, converts the voltage to a 10-bit number, and   */
-/* set's the servo position [1, 5] based on the magnitude of the 10- */
-/* bit digital value.                                                */
-/* Name:  R. W. Melton                                               */
-/* Date:  November 14, 2016                                          */
-/* Class:  CMPE 250                                                  */
-/* Section:  All sections                                            */
-/*********************************************************************/
+
 typedef int Int32;
 typedef short int Int16;
 typedef char Int8;

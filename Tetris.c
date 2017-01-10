@@ -1,9 +1,8 @@
 /*********************************************************************/
-/* <Your program description here>                                   */
-/* Name:  <Your name here>                                           */
-/* Date:  <Date completed>                                           */
-/* Class:  CMPE 250                                                  */
-/* Section:  <Your section here>                                     */
+/* Terminal Tetris for FRDM-KL46Z microcontroller. Tetris game that  */
+/*	can be played in the terminal									 */
+/* Name:  Chris Guarini                                              */
+/* Date:  1/10/2017		                                             */
 /*-------------------------------------------------------------------*/
 /* Template:  R. W. Melton                                           */
 /*            November 14, 2016                                      */
